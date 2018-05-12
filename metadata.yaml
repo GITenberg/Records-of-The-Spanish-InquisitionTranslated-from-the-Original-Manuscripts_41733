@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/271
     wikipedia: http://en.wikipedia.org/wiki/Andrew_Dickson_White
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41733#Records-of-The-Spanish-InquisitionTranslated-from-the-Original-Manuscripts
 gutenberg_issued: '2012-12-29'
 gutenberg_type: Text
 identifiers:
