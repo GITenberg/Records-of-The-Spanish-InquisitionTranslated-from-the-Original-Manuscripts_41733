@@ -1,0 +1,27 @@
+_repo: Records-of-The-Spanish-InquisitionTranslated-from-the-Original-Manuscripts_41733
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41733-h/images/cover.jpg
+creator:
+  author:
+    agent_name: White, Andrew Dickson
+    birthdate: 1832
+    deathdate: 1918
+    gutenberg_agent_id: '271'
+    url: http://www.gutenberg.org/2009/agents/271
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Dickson_White
+description: ''
+gutenberg_issued: '2012-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41733'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inquisition -- Spain -- History -- Sources'
+- !lcc 'BX'
+title: Records of the Spanish Inquisition, Translated from the Original Manuscripts
+url: http://www.gutenberg.org/ebooks/41733
